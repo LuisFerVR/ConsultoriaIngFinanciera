@@ -8,7 +8,7 @@
                     <div class="column one-fifth">
                         <aside id="text-6" class="widget widget_text">
                             <div class="textwidget">
-                                <img src="<?php echo base_url();?>Assets/image/logo1.png">
+                                <img src="<?php echo base_url();?>Assets/image/logo1.png" style="width:200px;">
                             </div>
                         </aside>
                     </div>

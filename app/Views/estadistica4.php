@@ -6,7 +6,7 @@
                                 <div class="column mcb-column one column_column  column-margin-">
                                     <div class="column_attr clearfix" style="">
                                         <p class="titulo-seccion" style="padding-bottom:10px !important;">
-                                            <strong>REGRESIÓN LINEAL SIMPLE O MULTIPLE</strong></p>
+                                            <strong>REGRESIÓN LINEAL SIMPLE</strong></p>
                                     </div>
                                 </div>
                             </div>

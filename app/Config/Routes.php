@@ -29,7 +29,7 @@ $routes->set404Override();
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('MVV', 'Home::MVV');
+$routes->get('/', 'Home::MVV');
 $routes->get('areasDeOportunidad1', 'Home::areasDeOportunidad1');
 $routes->get('areasDeOportunidad2', 'Home::areasDeOportunidad2');
 $routes->get('areasDeOportunidad3', 'Home::areasDeOportunidad3');
